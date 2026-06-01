@@ -1,6 +1,11 @@
 {
-  "version": "7.0.0",
-  "message": "Aktuelle Version",
+  "version": "7.0.2",
+  "message": "Testupdate verfügbar",
   "mandatory": false,
-  "releaseDate": "2026-05-31"
+  "releaseDate": "2026-06-01",
+  "changes": [
+    "Update-System getestet",
+    "Anzeige im Tool geprüft",
+    "Changelog vorbereitet"
+  ]
 }
