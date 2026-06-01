@@ -1,11 +1,11 @@
 {
-  "version": "7.0.2",
-  "message": "Testupdate verfügbar",
+  "version": "7.0.1",
+  "message": "Aktuelle Version",
   "mandatory": false,
   "releaseDate": "2026-06-01",
   "changes": [
-    "Update-System getestet",
-    "Anzeige im Tool geprüft",
-    "Changelog vorbereitet"
+    "Update-System integriert",
+    "GitHub-Anbindung aktiv",
+    "Versionsprüfung verfügbar"
   ]
 }
