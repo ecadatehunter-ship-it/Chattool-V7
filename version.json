@@ -1,8 +1,8 @@
 {
-  "version": "7.02",
+  "version": "7.01",
   "message": "Aktuelle Version",
   "mandatory": false,
-  "releaseDate": "2026-06-02",
+  "releaseDate": "2026-06-01",
   "changes": [
     "Update-System integriert",
     "GitHub-Anbindung aktiv",
